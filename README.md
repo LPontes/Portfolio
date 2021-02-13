@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Lucas M Pontes
+# Lucas Machado Pontes
 <sub>*Data Scientist* </sub>
 
 As a experienced Data Scientist and Academic researcher I combine analytical skills, ability to work in team environments, and problem solver profile.
