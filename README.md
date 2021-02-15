@@ -11,7 +11,7 @@ As a experienced Data Scientist and Academic researcher I combine analytical ski
 
 My credentials include a Master's in Water Resources In Agriculture and a PhD in Soil Science from University of Lavras (UFLA), an institution of higher education and advanced research rated as one of the top and most prestigious agriculture schools in Brazil.
 
-**Background in:** Python, Machine Learning, Agriculture and Education.
+**Background in:** Python, Machine Learning, Agriculture, Research and Education.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucasmpontes)
