@@ -11,7 +11,7 @@ As a experienced Data Scientist and Academic researcher I combine analytical ski
 
 My credentials include a Master's in Water Resources In Agriculture and a PhD in Soil Science from University of Lavras (UFLA), an institution of higher education and advanced research rated as one of the top and most prestigious agriculture schools in Brazil.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Agriculture and Education.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucasmpontes)
@@ -19,6 +19,9 @@ My credentials include a Master's in Water Resources In Agriculture and a PhD in
 
 
 ## Projetos:
-Veja os tutoriais e projetos publicados:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/
+* **Análise exploratória de dados do Airbnb:** https://bit.ly/3u0iC6g
+* **Supervised Machine Learning  to find donors for CharityML:** https://bit.ly/3poHHEp
+* **Aplicativo para classificar de menssagens de texto:** https://bit.ly/2LRwGxD
+* **Deep Learning para identificar espécies de flores com imagens:** https://bit.ly/3qnIK8W
+* **Convolutional neural network (CNN) para identificar cães e humanos em fotos:** https://bit.ly/37fJlSK
