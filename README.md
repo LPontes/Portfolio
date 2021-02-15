@@ -22,6 +22,6 @@ My credentials include a Master's in Water Resources In Agriculture and a PhD in
 
 * **Análise exploratória de dados do Airbnb:** https://bit.ly/3u0iC6g
 * **Supervised Machine Learning  to find donors for CharityML:** https://bit.ly/3poHHEp
-* **Aplicativo para classificar de menssagens de texto:** https://bit.ly/2LRwGxD
+* **Aplicativo para classificar mensagens de texto:** https://bit.ly/2LRwGxD
 * **Deep Learning para identificar espécies de flores com imagens:** https://bit.ly/3qnIK8W
 * **Convolutional neural network (CNN) para identificar cães e humanos em fotos:** https://bit.ly/37fJlSK
