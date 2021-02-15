@@ -25,3 +25,4 @@ My credentials include a Master's in Water Resources In Agriculture and a PhD in
 * **App that classifies messages text:** https://bit.ly/2LRwGxD
 * **Deep Learning to identify flower species from images:** https://bit.ly/3qnIK8W
 * **Convolutional neural network (CNN) to identify dogs and humans in pictures:** https://bit.ly/37fJlSK
+* **Customer segmentation using Unsupervised Machine Learning:** https://bit.ly/3u2ddeQ
