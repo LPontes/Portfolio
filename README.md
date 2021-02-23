@@ -26,3 +26,6 @@ My credentials include a Master's in Water Resources In Agriculture and a PhD in
 * **Deep Learning to identify flower species from images:** https://bit.ly/3qnIK8W
 * **Convolutional neural network (CNN) to identify dogs and humans in pictures:** https://bit.ly/37fJlSK
 * **Customer segmentation using Unsupervised Machine Learning:** https://bit.ly/3u2ddeQ
+
+## Artigos científicos:
+* ** Spatial and Temporal Potential Groundwater Recharge: the Case of the Doce River Basin, Brazil' no qual utilizamos machine learning para criar uma predição espacialmente distribuída da recarga: ** https://bit.ly/3dDRpjX
