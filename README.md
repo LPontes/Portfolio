@@ -28,4 +28,8 @@ My credentials include a Master's in Water Resources In Agriculture and a PhD in
 * **Customer segmentation using Unsupervised Machine Learning:** https://bit.ly/3u2ddeQ
 
 ## Artigos científicos:
-* ** Spatial and Temporal Potential Groundwater Recharge: the Case of the Doce River Basin, Brazil' no qual utilizamos machine learning para criar uma predição espacialmente distribuída da recarga: ** https://bit.ly/3dDRpjX
+* **Spatial and Temporal Potential Groundwater Recharge: the Case of the Doce River Basin, Brazil' no qual utilizamos machine learning para criar uma predição espacialmente distribuída da recarga:** https://bit.ly/3dDRpjX
+* **Digital soil erodibility mapping by soilscape trending and kriging:** https://doi.org/10.1002/ldr.3057
+* **Spatial Distribution of Annual and Monthly Rainfall Erosivity in the Jaguarí River Basin:** https://doi.org/10.1590/18069657rbcs20160407 
+* **Hydrological Modeling of Tributaries of Cantareira System, Southeast Brazil, with the Swat Model:** https://doi.org/10.1590/1809-4430-eng.agric.v36n6p1037-1049/2016 
+* **Pedotransfer functions to estimate bulk density from soil properties and environmental covariates: Rio Doce basin:** https://doi.org/10.1590/0103-9016-2015-0485 
