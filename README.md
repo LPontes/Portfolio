@@ -20,6 +20,7 @@ My credentials include a Master's in Water Resources In Agriculture and a PhD in
 
 ## Projects:
 
+* **Python for Geospatial Analysis (Tutorial):** https://www.letrasambientais.org.br/posts/como-utilizar-mapas-da-umidade-do-solo-para-reduzir-riscos-agricolas-
 * **Land Use Land Cover Classification App:** https://github.com/LPontes/LULC_app
 * **Exploratory data analysis from Airbnb:** https://bit.ly/3u0iC6g
 * **Supervised Machine Learning  to find donors for CharityML:** https://bit.ly/3poHHEp
